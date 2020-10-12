@@ -1,0 +1,15 @@
+11. Error Handling :
+                1) Error Handling in Angular
+                2) Http interceptors
+                3) Toast notification
+                4) Troubleshooting tips
+        Goal : Handle errors which we receive from the API and handled by the http interceptors.
+
+
+
+
+For Toastr 
+For Bootstrap 4.1
+npm install popper.js@^1.14.3 --save
+npm install jquery@3.3.1 --save
+npm install bootstrap@4.1.1 --save       
